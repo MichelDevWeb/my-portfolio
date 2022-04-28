@@ -12,6 +12,7 @@ import javascript from '../assets/images/javascript.png';
 import mu5 from '../assets/images/mu5.png';
 import node from '../assets/images/node.png';
 import python from '../assets/images/python.png';
+import angular from '../assets/images/angular.png';
 import react from '../assets/images/react.png';
 import redux from '../assets/images/redux.png';
 import sass from '../assets/images/sass.png';
@@ -25,7 +26,7 @@ import about04 from '../assets/images/about04.png';
 
 import profile from '../assets/images/profile.png';
 import circle from '../assets/images/circle.svg';
-import logo from '../assets/images/logo.png';
+import logo from '../assets/images/logo.PNG';
 
 import adidas from '../assets/images/adidas.png';
 import amazon from '../assets/images/amazon.png';
@@ -50,6 +51,7 @@ export default {
   mu5,
   node,
   python,
+  angular,
   react,
   redux,
   sass,

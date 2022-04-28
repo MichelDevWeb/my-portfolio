@@ -16,7 +16,7 @@ const scaleVariants = {
 };
 
 const Header = () => {
-  const _logo = [images.flutter, images.redux, images.sass];
+  const _logo = [images.react, images.angular , images.sass];
 
   return (
     <div className="app__header app__flex">
@@ -30,7 +30,8 @@ const Header = () => {
             <span>👋</span>
             <div style={{ marginLeft: 20 }}>
               <p className="p-text">Hello, I am</p>
-              <h1 className="head-text">Micael</h1>
+              <h1 className="head-text">Hieu</h1>
+              <p className="p-text">(Micheo)</p>
             </div>
           </div>
 
